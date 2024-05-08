@@ -10,10 +10,6 @@ Also available on [Android](https://github.com/signalapp/signal-android) and [De
 
 We use GitHub for bug tracking. Please search [existing issues](https://github.com/signalapp/signal-ios/issues) and create a new one if the issue is not yet tracked. For Android users, please use the [Signal for Android issue tracker](https://github.com/signalapp/signal-android/issues).
 
-## Contributing Code
-
-Instructions on how to setup your development environment and build Signal-iOS can be found in [BUILDING.md](https://github.com/signalapp/Signal-iOS/blob/main/BUILDING.md). We also recommend reading the [contribution guidelines](https://github.com/signalapp/Signal-iOS/blob/main/CONTRIBUTING.md).
-
 ## Contributing Ideas
 
 Have something you want to say about Signal Foundation projects or want to be part of the conversation? Get involved in the [community forum](https://community.signalusers.org).
